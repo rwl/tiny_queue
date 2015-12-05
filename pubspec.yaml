@@ -1,0 +1,11 @@
+name: tiny_queue
+version: 0.0.1
+author: Richard Lincoln <r.w.lincoln@gmail.com>
+description: Simple FIFO queue implementation
+homepage: https://github.com/rwl/tiny_queue.dart
+environment:
+  sdk: '>=1.13.0'
+dependencies:
+  js: ^0.6.0
+dev_dependencies:
+  browser: any
